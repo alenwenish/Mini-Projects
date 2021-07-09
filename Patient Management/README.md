@@ -1,1 +1,2 @@
-
+ABOUT THE MINI PROJECT:
+			This is a GUI based project in python that gets a patient’s information and stores that information in a text file. This project will be useful in places such as Hospital, small clinics, etc. to store and retrieve a patient’s information or data. The system or the program also stores the patient’s data in a well-defined manner. The patient details include his/her Name, age, sex phone number, address and the doctor’s name.
